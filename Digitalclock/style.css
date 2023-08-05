@@ -6,7 +6,7 @@ body{
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url(https://images.unsplash.com/photo-1431794062232-2a99a5431c6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+    background: url(https://i.gifer.com/QlQV.gif);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,9 +14,9 @@ body{
 h2{
     text-transform: uppercase;
     letter-spacing: 4px;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
-    color:white;
+    color:rgb(0, 0, 0);
     font-weight: bold;    
 }
 
